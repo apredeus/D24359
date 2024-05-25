@@ -1,0 +1,8 @@
+.references = P125109,CP255,D7795,A1636
+.target = D24359 
+
+P125109.fasta = P125109.uni.fa
+CP255.fasta = CP255.uni.fa
+D7795.fasta = D7795.uni.fa
+A1636.fasta = A1636.uni.fa
+D24359.fasta = D24359.unicycler.fa
