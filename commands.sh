@@ -1,8 +1,8 @@
 #!/bin/bash 
 
 ## ENA-deposited reads are already trimmed
-R1=ERR1143555_1.fastq.gz ## download: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR114/005/ERR1143555/ERR1143555_1.fastq.gz
-R2=ERR1143555_2.fastq.gz ## download: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR114/005/ERR1143555/ERR1143555_2.fastq.gz
+R1=ERR037572_1.fastq.gz ## download: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR037/ERR037572/ERR037572_1.fastq.gz
+R2=ERR037572_2.fastq.gz ## download: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR037/ERR037572/ERR037572_2.fastq.gz
 
 ## change the number of CPUS to what you have available 
 ## inflate the fasta from /data of this repo

@@ -4,7 +4,7 @@ Data and scripts used to assemble and annotate S. Enteritidis strain D24359
 
 ## Processing
 
-Sequencing data for S. Enteritidis strain D24359 has been [published previously](https://www.ebi.ac.uk/ena/browser/view/ERR1143555). Following steps were done to assembly and annotate the genome: 
+Sequencing data for S. Enteritidis strain D24359 has been [published previously](https://www.ebi.ac.uk/ena/browser/view/ERR037572). Following steps were done to assembly and annotate the genome: 
 
   - Reads were downloaded and quality-checked using FastQC v0.11.6. Deposited reads are already adapter- and quality-trimmed. 
   - Short reads were assembled using Unicycler v0.4.5 in short-read mode. The resulting assembly had 668 contigs and N50 of 10,609.
